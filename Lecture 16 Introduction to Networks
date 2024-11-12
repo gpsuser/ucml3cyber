@@ -1,5 +1,13 @@
 # Computer Networks
 
+This session intorduces the types of computer networks (five types).
+
+There are two main learning objectives:
+
+* Students are able to list the five types of networks and their features and evaluate the vulnerabilities for each type of network.
+* Secondly, students are able to consider the use of networking architectures and principles for security - in particular - the students need to understand the security implications of different networked systems, including how to secure them in an organisational contexts
+
+
 ## Learning Aim 1: Types of Networks and Their Features
 
 **1. Personal Area Network (PAN)**
@@ -78,27 +86,4 @@
 
 ---
 
-### Worksheet 16
 
-**Questions:**
-
-1. List the five types of computer networks and provide one feature for each.
-2. What are two common vulnerabilities of a Local Area Network (LAN)?
-3. Explain the principle of confidentiality in network security.
-4. Describe one security measure that can be used to protect a Wireless Local Area Network (WLAN).
-5. Why is it important to conduct regular security audits in an organizational context?
-
-**Answers:**
-
-1. 
-   - Personal Area Network (PAN): Covers a range of a few meters.
-   - Local Area Network (LAN): High data transfer rates.
-   - Metropolitan Area Network (MAN): Spans a city or a large campus.
-   - Wide Area Network (WAN): Covers large geographical areas.
-   - Wireless Local Area Network (WLAN): Provides mobility and ease of installation.
-2. 
-   - Internal threats from within the organization.
-   - Physical access to network devices can lead to security breaches.
-3. Ensuring that data is accessible only to those authorized to have access.
-4. Use WPA3 encryption for Wi-Fi networks.
-5. To ensure that network security policies and practices are up-to-date and effective in protecting against threats.
