@@ -73,7 +73,7 @@
 | No single point of failure | Complex to install and configure |
 | Data can be transmitted simultaneously | Maintenance can be challenging |
 
-### 5. Logical Network Topology
+## Logical Network Topology
 
 - **Description:** The arrangement of network devices and how data is transmitted logically through the network.
 - **Examples:**
@@ -86,13 +86,29 @@
 ![Logical Network Topology](img/img17_5.png)
 reference: <https://www.edrawsoft.com/logical-network.html>
 
-#### Pros and Cons
+## Hybrid Network Topology
 
-| Pros | Cons |
-|------|------|
-| Flexibility in design | Complex to manage and troubleshoot |
-| Can be implemented over different physical topologies | More difficult to secure |
-| Easier to monitor and troubleshoot logically | Requires sophisticated management tools |
+- **Description:** Combination of two or more network topologies.
+
+- **Examples:**
+  - Bus-Star-Ring Topology
+  
+
+- **Diagram:**
+
+    - Bus-Star-Ring Topology: Star Central hub connects to a bus and a ring.
+
+
+
+![Hybrid Network Topology](img/img17_6.png) 
+reference: <https://theinstrumentguru.com/hybrid-topology-what-is-hybrid-topology/>
+
+other:     
+
+    - Star-Bus Topology: Devices are connected to a central hub, and the hub is connected to a bus.
+
+    - Star-Ring Topology: Devices are connected to a central hub, and the hub is connected to a ring.
+
 
 ## Evaluation of Network Topologies
 
@@ -102,7 +118,7 @@ reference: <https://www.edrawsoft.com/logical-network.html>
 - **Star Topology:** More secure as devices connect to a central hub, allowing for better control and monitoring.
 - **Ring Topology:** Data can be intercepted easily if physical access to the ring is obtained.
 - **Mesh Topology:** Highly secure as it supports multiple paths for data transmission, reducing the risk of interception.
-- **Logical Network Topology:** Security depends on the physical implementation and management tools used.
+
 
 ### Implementation Considerations at the Organizational Level
 
