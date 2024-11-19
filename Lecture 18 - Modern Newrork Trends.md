@@ -44,16 +44,7 @@ By the end of the session, students will be able to:
   - Centralized security management.
   - Dependence on network reliability.
 
-### Additional Architectures
 
-- **Mesh Networks**:
-  - **Definition**: Network where each node connects directly to several other nodes.
-  - **Features**:
-    - High redundancy and reliability.
-    - Self-healing capabilities.
-  - **Security Implications**:
-    - Complex to secure due to many interconnections.
-    - Potential for localized attacks.
 
 ---
 
@@ -117,7 +108,7 @@ By the end of the session, students will be able to:
 | Peer-to-Peer (P2P)| Decentralized network           | High redundancy, no central authority      | Hard to control access, malware risks  |
 | Client-Server     | Centralized network             | Central management, easier to secure       | Single point of failure, manageable    |
 | Thin Client       | Minimal client processing       | Centralized data, reduced client costs     | Centralized security, network reliance |
-| Mesh Networks     | Direct multi-node connections   | High redundancy, self-healing              | Complex security, localized attacks    |
+
 
 ### Modern Network Trends Comparison Table
 
