@@ -1,4 +1,4 @@
-# Computer Networks - Architectures and Modern Trends
+# Lecture 18_1 - Computer Networks - Architectures and Modern Trends
 
 ## Learning Aims
 

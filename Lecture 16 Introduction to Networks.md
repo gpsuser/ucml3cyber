@@ -1,4 +1,4 @@
-# Computer Networks
+# Lecture 16 - Computer Networks
 
 This session intorduces the types of computer networks (five types).
 

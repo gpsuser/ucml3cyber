@@ -1,4 +1,4 @@
-# Lecture on Computer Network Diagrams
+# Lecture 18_2 - Computer Network Diagrams
 
 ## Introduction to Computer Networks
 

@@ -1,4 +1,4 @@
-# Lecture Content on Network Topologies
+# Lecture 17 - Network Topologies
 
 ## Introduction
 
