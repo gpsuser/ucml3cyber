@@ -56,7 +56,7 @@
 24. Scanning
 25. Copying
 26. Faxing
-27. DEsktops
+27. Desktops
 28. Laptops
 29. Tablets
 30. Smartphones
