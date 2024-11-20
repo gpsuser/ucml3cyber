@@ -29,6 +29,7 @@
 
 ### Scrambled Answers
 
+
 1. Modulate
 2. Wireless
 3. Computer
@@ -48,4 +49,16 @@
 17. Fiber optic cables
 18. Light
 19. Outgoing
+20. Demodulate
+21. Extremely high-speed
+22. electromagnetic interference
+23. Printing
+24. Scanning
+25. Copying
+26. Faxing
+27. DEsktops
+28. Laptops
+29. Tablets
+30. Smartphones
+31. Wearables
 
