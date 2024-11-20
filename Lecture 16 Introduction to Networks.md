@@ -11,6 +11,7 @@ There are two main learning objectives:
 ## Learning Aim 1: Types of Networks and Their Features
 
 **1. Personal Area Network (PAN)**
+
 - **Features:**
   - Smallest network type.
   - Covers a range of a few meters.
@@ -20,6 +21,7 @@ There are two main learning objectives:
   - Data interception risks if communication is not encrypted.
 
 **2. Local Area Network (LAN)**
+
 - **Features:**
   - Covers a small geographical area like a home, office, or building.
   - High data transfer rates.
@@ -29,6 +31,7 @@ There are two main learning objectives:
   - Physical access to network devices can lead to security breaches.
 
 **3. Metropolitan Area Network (MAN)**
+
 - **Features:**
   - Spans a city or a large campus.
   - Connects multiple LANs.
@@ -37,6 +40,7 @@ There are two main learning objectives:
   - More complex to secure due to multiple entry points.
 
 **4. Wide Area Network (WAN)**
+
 - **Features:**
   - Covers large geographical areas, often a country or continent.
   - Connects multiple LANs and MANs.
@@ -46,6 +50,7 @@ There are two main learning objectives:
   - Data integrity and confidentiality risks during transmission.
 
 **5. Wireless Local Area Network (WLAN)**
+
 - **Features:**
   - Similar to LAN but uses wireless technology.
   - Provides mobility and ease of installation.
@@ -57,11 +62,13 @@ There are two main learning objectives:
 ## Learning Aim 2: Security Implications of Networked Systems
 
 **1. Network Security Principles**
+
 - **Confidentiality:** Ensuring that data is accessible only to those authorized to have access.
 - **Integrity:** Maintaining the accuracy and completeness of data.
 - **Availability:** Ensuring that authorized users have access to information and resources when needed.
 
 **2. Security Measures for Different Network Types**
+
 - **PAN:**
   - Use strong passwords and encryption for Bluetooth and Wi-Fi connections.
   - Regularly update device software to patch vulnerabilities.
@@ -79,6 +86,7 @@ There are two main learning objectives:
   - Disable SSID broadcasting and use MAC address filtering.
 
 **3. Securing Networks in Organizational Contexts**
+
 - **Network Access Control (NAC):** Ensuring that only authorized devices and users can access the network.
 - **Regular Security Audits:** Conducting periodic reviews of network security policies and practices.
 - **Employee Training:** Educating employees about security best practices and potential threats.
