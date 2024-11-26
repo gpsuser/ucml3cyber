@@ -27,28 +27,6 @@ Fill in the blanks with the appropriate words from the list provided below:
 ## Word List (Scrambled):
 
 - Wireshark
-- scanner
-- updated
-- performance
-- operating
-- interface
-- Nmap
-- scanners
-- antivirus
-- USB drives
-- resources
-- Google Drive
-- communication
-- SharePoint
-- latency
-- Event Viewer
-- Packet
-- external hard drives
-- database
-- SSDs
-
-
-- Wireshark
 - updated
 - performance
 - operating
