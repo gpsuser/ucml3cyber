@@ -48,4 +48,26 @@ Fill in the blanks with the appropriate words from the list provided below:
 - SSDs
 
 
-
+- Wireshark
+- updated
+- performance
+- operating
+- interface
+- sniffers
+- Nmap
+- scanners
+- antivirus
+- USB drives
+- resources
+- Google Drive
+- network
+- communication
+- SharePoint
+- latency
+- Event Viewer
+- Packet
+- user
+- external hard drives
+- database
+- SSDs
+ -Desktop
