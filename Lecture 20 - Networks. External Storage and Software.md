@@ -105,6 +105,8 @@ Throughout this session, we'll explore various topics related to external storag
     - Secure sniffer access and restrict usage.
     - Encrypt sensitive data on the network.
 
+![wireshark](img/img_20_1.png)
+
 ## 5. Network Application Software
 
 **Definition**: Software applications that operate over a network.
