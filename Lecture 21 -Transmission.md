@@ -57,6 +57,7 @@
   - **Receiving**: The server receives and processes the TCP segments.
 
 Figure 1: IP Packet
+
 ![IP Packet](img/img_21_3.png)
 reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
 
@@ -121,6 +122,7 @@ Typical IP Packet format fields:
 | Data                 | The actual data being transmitted                      |
 
 Figure 2: TCP Packet
+
 ![TCP Packet](img/img_21_2.png)
 
 reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
@@ -132,6 +134,7 @@ reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
 - **Reliability:** Lost packets can be retransmitted without affecting the whole message.
 
 Figure 3: Network Packet
+
 ![Network Packet](img/img_21_1.png)
 reference: <https://networkencyclopedia.com/network-packet/>
 
