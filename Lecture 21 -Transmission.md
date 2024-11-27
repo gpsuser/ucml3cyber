@@ -5,6 +5,7 @@
 ### 1. TCP/IP Suite
 
 **Introduction to TCP/IP:**
+
 - **TCP/IP (Transmission Control Protocol/Internet Protocol)** is a suite of communication protocols used to interconnect network devices on the internet.
 - **Layers of TCP/IP:**
   - **Application Layer**: Interfaces with user applications.
@@ -13,6 +14,7 @@
   - **Network Access Layer**: Manages physical network connections.
 
 **TCP (Transmission Control Protocol):**
+
 - **Functionality:**
   - Ensures reliable, ordered, and error-checked delivery of data between applications.
   - Establishes a connection before data transmission (connection-oriented).
@@ -30,6 +32,7 @@
   - Ensuring secure transmission channels (e.g., through encryption).
 
 **IP (Internet Protocol):**
+
 - **Functionality:**
   - Routes packets across network boundaries.
   - Provides addressing through IP addresses.
@@ -47,6 +50,7 @@
   - IPsec (Internet Protocol Security) can enhance security.
 
 **Sending and Receiving Data:**
+
 - Data is segmented into TCP segments, which are encapsulated in IP packets.
 - **Example:**
   - **Sending**: An email client sends data through the TCP/IP stack.
@@ -68,6 +72,7 @@
 #### 3. Network Packets
 
 **What are Network Packets?**
+
 - Small units of data formatted for transmission across networks.
 
 **Components of Network Packets:**
@@ -95,6 +100,7 @@
 | Data                 | The actual data being transmitted                      |
 
 **Motivation for Using Packets:**
+
 - **Efficiency:** Smaller packets can be transmitted more efficiently.
 - **Error Detection:** Easier to detect and correct errors in smaller packets.
 - **Reliability:** Lost packets can be retransmitted without affecting the whole message.
@@ -102,6 +108,7 @@
 #### 4. Significant Network Protocols
 
 **HTTP/HTTPS (HyperText Transfer Protocol/Secure):**
+
 - **Functionality:**
   - HTTP: Transmits web pages.
   - HTTPS: Securely transmits web pages.
@@ -115,6 +122,7 @@
   - HTTPS is essential for secure web transactions.
 
 **FTP (File Transfer Protocol):**
+
 - **Functionality:** Transfers files between client and server.
 - **Strengths:**
   - Efficient for large file transfers.
@@ -124,6 +132,7 @@
   - Use SFTP (Secure FTP) to encrypt data.
 
 **SMTP (Simple Mail Transfer Protocol):**
+
 - **Functionality:** Sends emails.
 - **Strengths:**
   - Widely supported.
@@ -133,6 +142,7 @@
   - Use authentication and encryption to secure email.
 
 **DNS (Domain Name System):**
+
 - **Functionality:** Resolves domain names to IP addresses.
 - **Strengths:**
   - Essential for web navigation.
@@ -142,9 +152,11 @@
   - DNSSEC (DNS Security Extensions) enhances security.
 
 ### Summary
+
 By the end of this lecture, students should be able to:
+
 - Discuss the 4 layers of the TCP/IP suite.
 - Explain what data packets are and how they are transmitted across a network.
 - Identify the most common network ports and their associated application types.
 
-This content covers the essential concepts of network transmission and their implications for cybersecurity, providing a comprehensive understanding suitable for final-year high school students studying Cyber Security.
+This content covers the essential concepts of network transmission and their implications for cybersecurity, providing a comprehensive understanding suitable for students starting their journey studying Cyber Security.
