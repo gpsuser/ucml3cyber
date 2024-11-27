@@ -56,6 +56,27 @@
   - **Sending**: An email client sends data through the TCP/IP stack.
   - **Receiving**: The server receives and processes the TCP segments.
 
+Figure 1: IP Packet
+![IP Packet](img/img_21_3.png)
+reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
+
+Typical IP Packet format fields:
+
+- **Version:** IP version (IPv4 or IPv6).
+- **Header Length:** Length of the IP header.
+- **Type of Service:** Quality of service settings.
+- **Total Length:** Total length of the IP packet.
+- **Identification:** Unique identifier for the packet.
+- **Flags:** Control information (e.g., fragmentation).
+- **Fragment Offset:** Position of the fragment in the original packet.
+- **Time to Live:** Maximum number of hops before discarding.
+- **Protocol:** Transport layer protocol (e.g., TCP, UDP).
+- **Header Checksum:** Error-checking data.
+- **Source IP Address:** Sender's IP address.
+- **Destination IP Address:** Receiver's IP address.
+- **Options:** Additional settings.
+- **Data:** The actual data being transmitted.
+
 #### 2. Network Ports
 
 **Common Network Ports and Their Uses:**
@@ -99,11 +120,20 @@
 | Options              | Additional settings                                    |
 | Data                 | The actual data being transmitted                      |
 
+Figure 2: TCP Packet
+![TCP Packet](img/img_21_2.png)
+
+reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
+
 **Motivation for Using Packets:**
 
 - **Efficiency:** Smaller packets can be transmitted more efficiently.
 - **Error Detection:** Easier to detect and correct errors in smaller packets.
 - **Reliability:** Lost packets can be retransmitted without affecting the whole message.
+
+Figure 3: Network Packet
+![Network Packet](img/img_21_1.png)
+reference: <https://networkencyclopedia.com/network-packet/>
 
 #### 4. Significant Network Protocols
 

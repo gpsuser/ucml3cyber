@@ -43,7 +43,7 @@ Fill in the blanks with the appropriate terms:
 6. Header
 7. web
 8. SMTP
-9. Internet
+9. Network
 10. SSH
 
 
