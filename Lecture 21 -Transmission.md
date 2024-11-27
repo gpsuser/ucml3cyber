@@ -185,4 +185,4 @@ By the end of this lecture, students should be able to:
 - Explain what data packets are and how they are transmitted across a network.
 - Identify the most common network ports and their associated application types.
 
-This content covers the essential concepts of network transmission and their implications for cybersecurity.
+This content covers essential concepts of network transmission and their implications for cybersecurity.
