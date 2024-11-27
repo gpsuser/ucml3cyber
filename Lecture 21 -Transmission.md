@@ -176,15 +176,6 @@ reference: <https://networkencyclopedia.com/network-packet/>
 - **Cybersecurity Implications:**
   - Use authentication and encryption to secure email.
 
-**DNS (Domain Name System):**
-
-- **Functionality:** Resolves domain names to IP addresses.
-- **Strengths:**
-  - Essential for web navigation.
-- **Weaknesses:**
-  - Vulnerable to DNS spoofing.
-- **Cybersecurity Implications:**
-  - DNSSEC (DNS Security Extensions) enhances security.
 
 ### Summary
 
