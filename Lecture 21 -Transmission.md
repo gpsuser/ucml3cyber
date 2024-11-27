@@ -59,6 +59,7 @@
 Figure 1: IP Packet
 
 ![IP Packet](img/img_21_3.png)
+
 reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
 
 Typical IP Packet format fields:
@@ -136,6 +137,7 @@ reference: <https://www.geeksforgeeks.org/tcp-ip-packet-format/>
 Figure 3: Network Packet
 
 ![Network Packet](img/img_21_1.png)
+
 reference: <https://networkencyclopedia.com/network-packet/>
 
 #### 4. Significant Network Protocols
