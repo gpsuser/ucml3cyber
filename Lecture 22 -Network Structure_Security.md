@@ -44,6 +44,10 @@ As networks become more complex and interconnected, safeguarding them becomes in
 - **Network Operating Systems (NOS)**: Software that facilitates the setup, configuration, and management of network domains.
   - *Examples*: Windows Server, Linux.
 
+Figure 1: Domain Controller
+
+![Domain Controller](img/img22_1.png)
+
 ### 6. Network Subdomains
 
 - **Definition**: Subdivisions of larger network domains, often used to organize resources and users based on function or location.
