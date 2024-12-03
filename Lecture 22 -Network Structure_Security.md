@@ -46,7 +46,13 @@ As networks become more complex and interconnected, safeguarding them becomes in
 
 Figure 1: Domain Controller
 
-![Domain Controller](img/img22_1.png)
+![Domain Controller](img/img22_3.png)
+
+Multiple domains with two way trust structure.
+
+Reference:
+
+<https://support.riverbed.com/bin/support/static/u0hl9kshm7059oq1eromr6sd75/html/49flk91i6pcrupl971sgtgfrc/sh_9.7_dg_protocols_html/index.html#page/sh_9.7_dg_protocols/smb.html>
 
 ### 6. Network Subdomains
 
@@ -63,6 +69,27 @@ Figure 1: Domain Controller
 - **Pros/Cons**:
   - *Pros*: Improves security by isolating sensitive data, reduces attack surface, limits the spread of malware.
   - *Cons*: Increased complexity, higher costs for setup and maintenance.
+
+Figure 2: Network Segmentation, Physical
+
+![Network Segmentation](img/img22_2.png)
+
+Reference:
+
+<https://www.researchgate.net/figure/shows-an-example-of-the-network-diagram-configuration_fig1_255248242>
+
+Figure 3: Network Segmentation, Physical
+
+![Network Segmentation](img/img22_1.png)
+
+
+Figure 4: Network Segmentation, Logical
+
+![Network Segmentation](img/img22_4.png)
+
+Reference:
+
+<https://www.linkedin.com/pulse/why-do-we-separate-networks-using-vlan-mohsen-hayati/>
 
 ### Summary Table
 
