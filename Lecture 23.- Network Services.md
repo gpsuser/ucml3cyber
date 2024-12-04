@@ -96,6 +96,14 @@ By the end of this lecture, you will be able to list network infrastructure serv
   - **Risks:** Can be tampered with to redirect traffic.
 - **Example:** A router's routing table directing traffic to the correct subnet.
 
+Figure 1: Routing Table with Destination, Next Hop, and Interface Columns
+
+![Routing Table](img/img23_1.png)
+
+Reference: 
+
+<https://superuser.com/questions/959242/how-is-next-hop-defined-in-routing-table>
+
 ### Remote Access Services
 
 **Definition and Concepts:**
