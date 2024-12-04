@@ -1,6 +1,6 @@
-# Lecture 22: Network Structure and Security
+# Lecture 22: Network Structure
 
-### Introduction
+## Introduction
 
 As networks become more complex and interconnected, safeguarding them becomes increasingly challenging. This session covers key topics in network structure and security.
 
