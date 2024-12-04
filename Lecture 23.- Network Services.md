@@ -2,7 +2,11 @@
 
 ## Introduction
 
-Welcome, students! Today, we will be exploring the fundamental aspects of network services that are pivotal in the domain of cybersecurity. Our focus will be on understanding how these services operate, their roles in network infrastructure, and the associated security implications. By the end of this lecture, you will be able to list network infrastructure services, describe their roles, and understand their security aspects. Let's get started!
+Today, we will be exploring the fundamental aspects of network services that are pivotal in the domain of cybersecurity.
+
+* Our focus will be on understanding how these services operate, their roles in network infrastructure, and the associated security implications. 
+
+By the end of this lecture, you will be able to list network infrastructure services, describe their roles, and understand their security aspects.
 
 ### Domain Name System (DNS)
 
@@ -191,4 +195,4 @@ Welcome, students! Today, we will be exploring the fundamental aspects of networ
 
 ### Conclusion
 
-Understanding network services is crucial in the field of cybersecurity. These services form the backbone of modern communication and operations, but they also come with inherent risks. As future cybersecurity professionals, it is essential to not only comprehend these services but also be aware of their security implications. This knowledge will empower you to protect and secure network infrastructures effectively. Thank you for your attention, and I look forward to our discussions on these topics!
+Understanding network services is crucial in the field of cybersecurity. These services form the backbone of modern communication and operations, but they also come with inherent risks. As future cybersecurity professionals, it is essential to not only comprehend these services but also be aware of their security implications. This knowledge will empower you to protect and secure network infrastructures effectively.
