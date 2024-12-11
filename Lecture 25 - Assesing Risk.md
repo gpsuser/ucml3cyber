@@ -37,13 +37,13 @@ Risk in cybersecurity refers to the potential for loss, damage, or compromise of
 
 **Example:**
 
-```
+
 Scenario: School Database System
 - Threat: Unauthorized access to student records
 - Vulnerability: Weak password policy
 - Impact: Privacy breach, legal consequences
 - Likelihood: High (if no security measures are in place)
-```
+
 
 ---
 
@@ -53,9 +53,9 @@ Risk measurement helps us quantify potential threats and make informed decisions
 
 **Risk Measurement Formula:**
 
-```
-Risk = Probability of Occurrence × Potential Impact
-`
+
+`Risk = Probability of Occurrence × Potential Impact`
+
 
 **Key Factors in Risk Measurement:**
 
