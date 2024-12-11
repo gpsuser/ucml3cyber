@@ -51,6 +51,11 @@ Scenario: School Database System
 
 Risk measurement helps us quantify potential threats and make informed decisions about security measures.
 
+**Risk Measurement Formula:**
+
+```
+Risk = Probability of Occurrence × Potential Impact
+`
 
 **Key Factors in Risk Measurement:**
 
