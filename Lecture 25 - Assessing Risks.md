@@ -24,6 +24,7 @@ Risk in cybersecurity refers to the potential for loss, damage, or compromise of
 
 **Example:**
 Consider a school's student database:
+
 - The database contains personal information (names, addresses, grades)
 - Multiple users (teachers, administrators) need access to it
 - It's connected to the internet for remote access
@@ -34,12 +35,14 @@ Consider a school's student database:
 Risk measurement involves evaluating potential threats on a standardized scale to make informed decisions about protection measures. This standardization helps organizations communicate about risks effectively and allocate resources appropriately.
 
 **Standard Risk Scale:**
-- Low: Minimal threat to operations
-- Medium: Notable threat requiring attention
-- Extreme: Critical threat demanding immediate action
+
+- `Low`: Minimal threat to operations
+- `Medium`: Notable threat requiring attention
+- `Extreme`: Critical threat demanding immediate action
 
 **Example Application:**
 Let's measure the risk of using an outdated operating system:
+
 - Security patches unavailable = Extreme risk
 - Latest patches missing by 1-2 months = Medium risk
 - System fully updated = Low risk
@@ -47,8 +50,9 @@ Let's measure the risk of using an outdated operating system:
 ### 3. Risk Assessment Framework
 
 Risk assessment combines two key factors:
-1. Probability of occurrence
-2. Potential impact
+
+1. `Probability` of occurrence
+2. Potential `impact`
 
 This can be expressed as:
 ```
@@ -109,12 +113,14 @@ The Risk Severity Matrix combines probability and impact assessments to determin
 | Unlikely            | Low   | Low      | Medium |
 
 Using this matrix:
+
 1. Identify the probability level (row)
 2. Identify the impact level (column)
 3. Find the intersection point to determine severity
 
 **Example Application:**
 A weak password policy:
+
 - Probability: Very Likely (easily exploitable)
 - Impact: Major (could lead to unauthorized access)
 - Severity Rating: Extreme (from matrix intersection)
@@ -151,6 +157,7 @@ Let's assess the risk of a school's wireless network:
 ### Conclusion
 
 Understanding risk assessment is crucial in cybersecurity. Remember:
+
 - Always consider both probability and impact
 - Use standardized measurements for consistent evaluation
 - Apply appropriate prevention measures based on risk severity
