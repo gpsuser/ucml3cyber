@@ -1,8 +1,8 @@
 # Lecture 27 and 28: Cyber Security Protection Plans
 
----
-Note to lecturer: This content can be split into two separate lectures if needed (lecture 27 and 28).
----
+
+**Note to lecturer**: This content can be split into two separate lectures if needed (lecture 27 and 28).
+
 
 ## Introduction
 
