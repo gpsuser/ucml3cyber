@@ -1,5 +1,9 @@
 # Lecture 27 and 28: Cyber Security Protection Plans
 
+---
+Note to lecturer: This content can be split into two separate lectures if needed (lecture 27 and 28).
+---
+
 ## Introduction
 
 In today's interconnected digital world, organizations face an ever-growing array of cyber threats that can disrupt operations, compromise sensitive data, and damage reputations. Developing a comprehensive cyber security protection plan is essential for any organization looking to safeguard its assets and maintain the trust of its stakeholders.
