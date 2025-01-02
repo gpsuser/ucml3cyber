@@ -127,3 +127,6 @@ other:
 - **Maintenance:** How easy is it to troubleshoot and maintain the network?
 - **Performance:** Does the topology support the required speed and reliability?
 
+## References
+
+1. Gale, A. (2024). Lecture 17 Network Topologies [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

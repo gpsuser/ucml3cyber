@@ -221,3 +221,8 @@ Understanding vulnerability assessment is crucial for maintaining effective cybe
 - Practice using basic vulnerability assessment tools
 - Review OWASP Top 10 in detail
 - Explore penetration testing methodologies
+
+
+## References
+
+1. Gale, A. (2024). Lecture 24 Assessing Vulnerabilities [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

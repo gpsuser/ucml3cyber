@@ -228,5 +228,6 @@ Risk assessment is a critical component of cybersecurity management. The structu
 3. OWASP Risk Assessment Framework
 4. CIS Controls v8
 5. SANS Institute: Security Risk Assessment Guidelines
+6. Gale, A. (2024). Lecture 26 Risk Assessments [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)
 
 ---

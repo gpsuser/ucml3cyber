@@ -120,3 +120,7 @@ By the end of the session, students will be able to:
 | Software Defined Networking | Programmatically efficient network control | -                                       | Central control target, network monitoring |
 | Internet of Things      | Interconnected devices exchanging data     | Smart homes, industrial IoT             | Large attack surface, device security  |
 | Edge Computing          | Processing data near the source            | IoT devices, content delivery networks  | Improved speed, distributed challenges |
+
+## References
+
+1. Gale, A. (2024). Lecture 18_1 Modern Network Trends [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

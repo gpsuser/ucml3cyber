@@ -335,3 +335,4 @@ It is essential to understand that no single measure can provide complete protec
 4. UK Information Commissioner's Office. (n.d.). Guide to the General Data Protection Regulation (GDPR).
 5. European Union Agency for Cybersecurity. (2020). Cybersecurity for SMEs: Challenges and Recommendations. https://www.enisa.europa.eu/publications/cybersecurity-for-smes
 6. International Organization for Standardization. (2013). ISO/IEC 27001:2013 Information technology — Security techniques — Information security management systems — Requirements. https://www.iso.org/standard/54534.html
+7. Gale, A. (2024). Lecture 27 and 28 Cyber Security Protection Plans [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

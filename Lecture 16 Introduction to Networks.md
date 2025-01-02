@@ -96,6 +96,5 @@ There are two main learning objectives:
 
 ## References
 
-1. Gale, A. (2024). Lecture 16 Introduction to Networks [PowerPoint slides].Retrieved from ![URL](https://teams.microsoft.com/l/team/19%3AA6lnPL735gkPsUfAx7I4j2aN-6vW98mbTGcEjjGukMA1%40thread.tacv2/conversations?groupId=2c341c24-4832-4f4f-b482-b26d99f700a7&tenantId=0aff647e-10de-4eb1-90e9-d05789ef2c02)
-2. 1. Gale, A. (2024). Lecture 16 Introduction to Networks [PowerPoint slides].Retrieved from ![URL](https://teams.microsoft.com/)
+1. Gale, A. (2024). Lecture 16 Introduction to Networks [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)
 

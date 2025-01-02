@@ -172,7 +172,10 @@ Understanding risk assessment is crucial in cybersecurity. Remember:
 
 3. ISACA. (2023). *COBIT 2019 Framework: Risk Optimization*. ISACA.
 
+4. Gale, A. (2024). Lecture 25 Assessing Risks [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)
+
 #### Supplementary Materials
+
 4. Center for Internet Security (CIS). (2023). *CIS Controls v8*. 
 
 5. European Union Agency for Cybersecurity (ENISA). (2023). *Risk Management Standards*.

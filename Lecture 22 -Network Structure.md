@@ -111,4 +111,9 @@ In our journey thus far - student will now be able to:
 
 1. Discuss why we use network Address Translation
 2. Describe the main functions of network domains
-3. Evaluate the security benefits of network segmentaion
+3. Evaluate the security benefits of network segmentation
+
+## References
+
+1. Gale, A. (2024). Lecture 22 Network Structure [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)
+

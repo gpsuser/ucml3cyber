@@ -204,3 +204,7 @@ Reference:
 ### Conclusion
 
 Understanding network services is crucial in the field of cybersecurity. These services form the backbone of modern communication and operations, but they also come with inherent risks. As future cybersecurity professionals, it is essential to not only comprehend these services but also be aware of their security implications. This knowledge will empower you to protect and secure network infrastructures effectively.
+
+## References
+
+1. Gale, A. (2024). Lecture 23 Network Services [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

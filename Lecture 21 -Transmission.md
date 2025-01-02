@@ -186,3 +186,7 @@ By the end of this lecture, students should be able to:
 - Identify the most common network ports and their associated application types.
 
 This content covers essential concepts of network transmission and related implications for cybersecurity.
+
+## References
+
+1. Gale, A. (2024). Lecture 21 Transmission [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

@@ -149,3 +149,7 @@ In summary, this lecture content and the corresponding slide deck for this lectu
 * List the roles of operating system
 * Explain why we need network monitoring and the tools we would use
 * List network application software
+
+## References
+
+1. Gale, A. (2024). Lecture 20 Networks External Storage and Software [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

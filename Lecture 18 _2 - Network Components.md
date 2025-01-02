@@ -112,3 +112,6 @@
 - Cisco Packet Tracer (great network simulation tool for practice - including network and topology design)
 
 
+## References
+
+1. Gale, A. (2024). Lecture 18_2_Network Components [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)

@@ -143,4 +143,6 @@ Understanding network hardware components is crucial for building and maintainin
 
 By recognizing the security implications associated with each component, you can make informed decisions to protect and optimize network performance.
 
+## References
 
+1. Gale, A. (2024). Lecture 19 Network Hardware [PowerPoint slides].Retrieved from [URL](https://teams.microsoft.com/)
