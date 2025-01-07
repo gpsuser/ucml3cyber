@@ -82,19 +82,6 @@
 - Likely
 - Very Likely
 
-#### Solutions
-
-1. likelihood, impact
-2. Unlikely, Likely, Very Likely
-3. Nmap, OWASP ZAP
-4. High
-5. system changes, regular review cycles, cloud service adoption
-6. standardization, clear communication
-7. password, social engineering
-8. Medium
-9. documentation, audit
-10. security architecture, code review
-
 Note: When using this worksheet, it's recommended to:
 
 - Allow 45 minutes for Worksheet 1
