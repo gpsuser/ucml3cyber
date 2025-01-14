@@ -11,6 +11,7 @@
 7. Describe the importance of regularly testing and refining an organization's incident response capabilities.
 
 
+
 ## Worksheet 2
 
 1. An \_\_\_\_\_\_\_\_\_ is a set of guidelines that helps IT staff detect, respond to, and recover from network security incidents.

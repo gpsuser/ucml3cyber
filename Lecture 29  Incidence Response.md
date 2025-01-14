@@ -204,6 +204,7 @@ As cyber threats continue to evolve in both sophistication and frequency, buildi
 
 While prevention is always the first line of defense, no security controls are perfect. When incidents do occur, having a swift, coordinated, and thorough response is the next best thing. By following the guidelines laid out in this lecture and continuously refining your incident response capabilities, you can significantly reduce the impact of security breaches and reinforce customer trust in your organization.
 
+
 ## References
 
 1. NIST Computer Security Incident Handling Guide (https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf) 
